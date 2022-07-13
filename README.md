@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) git eğitimi kapsamında açt�
 Öncelikle projeyi klonlayın. (Burada kendi repomun linki var)
 
 ```
-https://github.com/tugrulgazi/kodluyoruzilkrepo.git
+git clone https://github.com/tugrulgazi/kodluyoruzilkrepo.git
 ```
 
 # Usage
